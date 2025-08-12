@@ -6,9 +6,9 @@
 NapCat文件夹请自行[前往下载](https://github.com/NapNeko/NapCatQQ)shell版并解压
 
 部分插件需要以下路径处于同一父目录下：
-- ArkanaBot文件夹——本项目的文件夹
-- ArkanaServer文件夹——[Arcaea-server项目](https://github.com/Lost-MSth/Arcaea-server)
-- ArkanaBundler文件夹——[Arcaea-Bundler项目](https://github.com/Lost-MSth/Arcaea-Bundler)
+- [ArkanaBot文件夹](https://github.com/SweelLong/ArcaeaServerBot)——本项目的文件夹
+- [ArkanaServer文件夹](https://github.com/SweelLong/ArcaeaServerFrontedWeb)——[Arcaea-server项目](https://github.com/Lost-MSth/Arcaea-server)
+- ArkanaBundler文件夹(此项目这里要包含assets文件夹)——[Arcaea-Bundler项目](https://github.com/Lost-MSth/Arcaea-Bundler)
 
 此外，示例数据库文件夹下的user.db数据库实际上存放在ArkanaServer(Arcaea-server)的web文件夹下
 具体配置可以研究一下代码，应该还是很好上手的。
